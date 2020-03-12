@@ -1,0 +1,12 @@
+C:\Users\Riccardo Torchio\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\Riccardo Torchio\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe.manifest
+C:\Users\Riccardo Torchio\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.application
+C:\Users\Riccardo Torchio\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\Riccardo Torchio\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\Riccardo Torchio\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Riccardo Torchio\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe.manifest
+C:\Users\Riccardo Torchio\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.application
+C:\Users\Riccardo Torchio\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\Riccardo Torchio\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.pdb
+C:\Users\Riccardo Torchio\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\CsvReaderWriter.dll
+C:\Users\Riccardo Torchio\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CopyComplete
